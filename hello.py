@@ -1,2 +1,1 @@
-print("Hello Software Engineer!")
-print("This is my first Python program.")
+print("Hello World from Nguyễn Xuân Anh Khôi")
